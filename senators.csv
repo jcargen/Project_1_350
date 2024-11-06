@@ -1,0 +1,11 @@
+First_Name,Last_Name,Party,State,Start_Date,End_Date,Email,Phone_Number
+John,Doe,Democrat,CA,2021-01-03,,jdoe@senate.gov,123-456-7890
+Jane,Smith,Republican,TX,2019-01-03,,jsmith@senate.gov,987-654-3210
+Michael,Johnson,Independent,FL,2023-01-03,,mjohnson@senate.gov,555-123-4567
+Lisa,Brown,Democrat,NY,2020-01-03,,lbrown@senate.gov,444-555-6666
+Robert,Davis,Republican,OH,2018-01-03,,rdavis@senate.gov,333-222-1111
+Susan,Wilson,Democrat,WA,2022-01-03,,swilson@senate.gov,777-888-9999
+Charles,Moore,Independent,MI,2017-01-03,,cmoore@senate.gov,222-333-4444
+Emily,Taylor,Republican,IL,2023-01-03,,etaylor@senate.gov,888-777-6666
+James,White,Democrat,PA,2019-01-03,,jwhite@senate.gov,999-000-1111
+Angela,Martinez,Republican,GA,2021-01-03,,amartinez@senate.gov,111-222-3333

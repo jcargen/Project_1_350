@@ -1,4 +1,4 @@
-Project 1 for Team 7.
+# Project 1 for Team 7.
 
   Project 1 Description:
 

@@ -8,13 +8,23 @@
   Repo File Architecture:
 
     DataEntriesANDTestCases:
-      It contains the data entries and test cases; both are SQL files.
+      Contains the data entries and test cases; both are SQL files. The contents:
+        project1TestCases.sql --Distinct cases that ensure the schema objects work as intended.
+        senate_house_data_entries.sql --The data entries which were required for Project 1.
 
     DatabaseSchema:
-      It contains the database (main) schema. It also includes the EDR model.
+      Contains the database (main) schema. It also includes the EDR model. The contents:
+        Project1_Schema.sql --The database schema (required for Project 1).
+        project_1_350.erd.json --The EDR model (required for Project 1).
 
     Functions:
-      It contains the SQL functions (as an SQL file).
+      Contains the SQL functions (as an SQL file). The contents, all of which were required for Project 1:
+        CountBillsSponsored.sql
+        GetActiveSenators.sql
+        GetCommitteeMembers.sql
 
     Triggers:
-      It contains the SQL triggers (with trigger functions); both are SQL files.
+      Contains the SQL triggers (with trigger functions) (as an SQL file). The contents:
+        SenatorsTrigger.sql
+        SenatorsTriggerFunctions.sql
+        

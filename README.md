@@ -3,7 +3,8 @@
   Project 1 Description/Task:
 
     "Your task is to make a PostgreSQL database about [ the Senate, and
-    possibly the House of Representatives ] of the United States, of course." --- Professor.
+    possibly the House of Representatives ] of the United States, of course." 
+    --- Professor.
 
   Repo File Architecture:
 

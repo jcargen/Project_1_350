@@ -18,13 +18,13 @@
         project_1_350.erd.json --The EDR model (required for Project 1).
 
     Functions:
-      Contains the SQL functions (as an SQL file). The contents, all of which were required for Project 1:
+      Contains the SQL functions (as an SQL file) (required for Project 1). The contents:
         CountBillsSponsored.sql
         GetActiveSenators.sql
         GetCommitteeMembers.sql
 
     Triggers:
-      Contains the SQL triggers (with trigger functions) (as an SQL file). The contents, all of which were required for Project 1:
+      Contains the SQL triggers (with trigger functions) (as an SQL file) (required for Project 1). The contents:
         SenatorsTrigger.sql
         SenatorsTriggerFunctions.sql
         

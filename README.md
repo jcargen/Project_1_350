@@ -1,6 +1,6 @@
 # Project 1 for Team 7.
 
-  Project 1 Description:
+  Project 1 Description/Task:
 
     "Your task is to make a PostgreSQL database about [ the Senate, and
     possibly the House of Representatives ] of the United States, of course." --- Professor.

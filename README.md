@@ -10,7 +10,7 @@
     DataEntriesANDTestCases:
       Contains the data entries and test cases; both are SQL files. The contents:
         project1TestCases.sql --Distinct cases that ensure the schema objects work as intended.
-        senate_house_data_entries.sql --The data entries which were required for Project 1.
+        senate_house_data_entries.sql --The data entries (required for Project 1).
 
     DatabaseSchema:
       Contains the database (main) schema. It also includes the EDR model. The contents:

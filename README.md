@@ -24,7 +24,7 @@
         GetCommitteeMembers.sql
 
     Triggers:
-      Contains the SQL triggers (with trigger functions) (as an SQL file). The contents:
+      Contains the SQL triggers (with trigger functions) (as an SQL file). The contents, all of which were required for Project 1:
         SenatorsTrigger.sql
         SenatorsTriggerFunctions.sql
         
